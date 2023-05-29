@@ -1,0 +1,12 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+PubSubClient
+MySensors
+DHT22
+Buzzer
+TonePitch
+ThingSpeak
+DHT12
+DHT12 sensor library
+DHT sensor library
